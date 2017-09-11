@@ -1,3 +1,8 @@
 *.csv
 *.txt
 *.ipynb_checkpoints*
+*.zip
+*tfidf*
+*_model
+*html
+gbm_perf_train
